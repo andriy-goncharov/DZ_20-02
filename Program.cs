@@ -34,15 +34,15 @@ namespace DZ_20_02 {
 
 
 
-			//ReversArr(sqrarr);
-
-			// Console.WriteLine(AVG(array1));
-			// Console.WriteLine(SumEven(array1));
 
 
-			//foreach (var item in ReversArr(array1)) {
-			//	Console.Write(item + " ");
-			//}
+			Console.WriteLine(AVG(array1));
+			Console.WriteLine(SumEven(array1));
+
+
+			foreach (var item in ReversArr(array1)) {
+				Console.Write(item + " ");
+			}
 
 
 
